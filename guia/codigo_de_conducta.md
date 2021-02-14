@@ -2,93 +2,82 @@
 
 ### TL;DR
 
-- Nadie podrá llevar por encima de su corazón a nadie ni hacerle mal en su persona aunque piense y diga diferente.
+**Nadie podrá llevar por encima de su corazón a nadie ni hacerle mal en su persona aunque piense y diga diferente**. (Traducción Wayú del Artículo 12 de la Constitución Nacional de Colombia: *Nadie será sometido a desaparición forzada, a torturas ni a tratos o penas crueles, inhumanas o degradantes*.)
 
-### Propósito:
+### Prefacio
 
-Uno de los objetivos principales de [Bayes del Sur]() es **ser una comunidad inclusiva** para el mayor número de contribuyentes, con la mayor diversidad de orígenes posibles.
+En tiempos inmemoriales se erigieron montañas, se desplazaron ríos, se formaron lagos.
+Nuestra amazonia, nuestra cordillera, nuestras costas, llanos y valles se cubrieron de vida.
+Poblamos esta sagrada Madre Tierra con rostros diferentes, y comprendimos desde entonces la  pluralidad vigente de todas las cosas y nuestra diversidad como seres y culturas.
+Así conformamos nuestros pueblos, y jamás comprendimos el racismo hasta que lo sufrimos desde los funestos tiempos de la colonia.
 
-Como tal, estamos comprometidos a proporcionar un ambiente agradable, seguro y acogedor para todos, independientemente de su sexo, orientación sexual, capacidad, etnia, nivel socioeconómico, y cultural.
+Nuestros pueblos, de composición plural, desde la profundidad de la historia, inspirados por las luchas en defensa de nuestra voluntad de vida comunitaria, en la sublevación indígena anticolonial, en la independencia, en las luchas populares de liberación, en las marchas indígenas, sociales y sindicales, en las luchas por el agua, la tierra y el territorio, por el buen gobierno y con la memoria de nuestros mártires, nos organizamos colectivamente una vez más.
 
-Este código de conducta resume nuestras expectativas para todos los que participan en nuestra comunidad, así como las consecuencias para el comportamiento inaceptable.
+Una organización basada en la diversidad, respeto e igualdad entre todas y todos, con principios de soberanía, dignidad, complementariedad, solidaridad, armonía y equidad en la distribución y redistribución del  producto social, donde predomine la búsqueda del vivir bien, en convivencia colectiva.
 
-Invitamos a todos los que participan en [Bayes del Sur]() a que nos ayuden a crear experiencias seguras y positivas para todos.
+### Principios del buen vivir
 
+1. _Suma Umaña_: Saber beber
 
-### Ciudadanía de [Software / Cultura / Tecnología] Libre
+    El agua es la fuente de vida en la tierra, es el principal elemento de nuestros cuerpos.
 
-Un objetivo adicional de este Código de Conducta es aumentar la ciudadanía de [software / cultura / tecnología] libre mediante el fomento de los participantes a reconocer y fortalecer las relaciones entre nuestras acciones y sus efectos en nuestra comunidad.
+2. _Suma Manq'aña_: Saber comer
 
-Las comunidades reflejan las sociedades en las que existen y la acción positiva
-es fundamental para contrarrestar las muchas formas de desigualdad y los abusos
-de poder que existen en la sociedad.
+    Comer es intercambio de vida. Somos lo que comemos. Pero también comemos lo que somos (y hacemos).
 
-Intenta ser alguien que esté haciendo un esfuerzo adicional y significativo para
-asegurar que nuestra comunidad sea acogedora, amable, y aliente a
-todos los participantes a que contribuyan en la mayor medida.
+3. _Suma Thokoña_: Saber danzar
 
+    Toda actividad debe realizarse con una dimensión espiritual.
 
-### Comportamiento esperado
+4. _Suma Ikiña_: Saber dormir
 
-* Participa de manera auténtica y activa. Al hacerlo, contribuyes a la salud y la longevidad de esta comunidad.
-* Ejercita la consideración y el respeto en tus comunicaciones y acciones.
-* Intenta colaborar en lugar de generar conflicto.
-* Abstente de adoptar una conducta y un lenguaje degradante, discriminatorio, abusivo o acosador.
-* Sé consciente de tu entorno y de tus compañeros participantes. **Alerta a administradores de la comunidad** si notas una situación peligrosa, alguien en apuros, o violaciones de este Código de Conducta, incluso si parecen intrascendentes.
+    Se debe dormir antes de la media noche, para tener las dos energías; la de la noche y la de la mañana siguiente.
+    
+5. _Suma Irnakaña_: Saber trabajar
 
+    El trabajo comunitario no es sufrimiento, es alegría. Se debe trabajar con pasión, intensamente.
 
-### Comportamiento inaceptable
+6. _Suma Lupiña_: Saber meditar
 
-Comportamientos inaceptables incluyen: intimidación, acoso, abuso, discriminación, comunicación despectiva o degradante y acciones por cualquier participante en nuestra comunidad ya sea en Internet, en todos los eventos relacionados y en las comunicaciones uno-a-uno que se realizan en el contexto de los principios de la comunidad. Es posible que los lugares para eventos comunitarios sean de uso compartido con los miembros del público; por favor, ser respetuoso con todos aquellos que los frecuentan.
+    El equilibrio se restablece a través del silencio personal, el que  nos conecta al equilibrio y silencio del entorno.
 
-El acoso incluye: comentarios nocivos o perjudiciales, verbales o escritos relacionados con el género, la orientación sexual, raza, religión, discapacidad; uso inadecuado de desnudos y/o imágenes sexuales en espacios públicos (incluyendo la presentación de diapositivas); intimidación deliberada, acecho o seguimiento; fotografías o grabaciones acosadoras; interrupción sostenida de charlas y otros eventos; contacto físico inapropiado, y atención sexual no deseada.
+7. _Suma Amuyaña_: Saber pensar
 
+    Es la reflexión, no sólo desde lo racional sino desde el sentir. Sin perder la razón, caminemos la senda del corazón.
 
-### Consecuencias de comportamiento inaceptable
+8. _Suma Munaña Munayasiña_: Saber amar y ser amado
 
-El comportamiento inaceptable de cualquier miembro de la comunidad, incluyendo patrocinadores y aquellos con poder de decisión, no será tolerado.
+    El proceso de complementariedad y respeto a todo lo que existe.
 
-Se espera que personas a quienes se les solicite que detengan su comportamiento inaceptable lo hagan de manera inmediata.
+9. _Suma Ist'aña_: Saber escuchar
 
-Si un miembro de la comunidad participa en una conducta inaceptable, los organizadores comunitarios pueden tomar cualquier acción que consideren apropiada, hasta e incluyendo una prohibición temporal o expulsión permanente de la comunidad, sin previo aviso (y sin derecho a reembolso en el caso de un evento de pago).
+    No sólo es escuchar con los oídos; es percibir, sentir, escuchar con todo el cuerpo.
 
+10. _Suma Aruskipaña_: Saber hablar
 
-### Si usted es testigo o es objeto de comportamiento inaceptable
+    Antes de hablar hay que sentir y pensar bien. Hablar bien denota hablar para construir. Para alentar, para aportar. Todo lo que se habla se escribe en los corazones de quienes los escuchan.
 
-Si eres víctima o testigo de una conducta inaceptable, o tienes cualquier inquietud, por favor comunícate con un administrador de la comunidad lo antes posible.
+11. _Suma Samkasiña_: Saber soñar
 
-* Email: [bayesdelsur@gmail.com](mailto:bayesdelsur@gmail.com)
-* Twitter: [@BayesSur](http://twitter.com/BayesSur)
+    Todo parte desde el sueño; un inicio de la realidad. A través del sueño se percibe la vida. Soñar es proyectar la vida.
 
-Adicionalmente, los organizadores comunitarios están disponibles para ayudar a miembros de la comunidad a contactar a la policía local o interceder para que las víctimas de comportamiento inaceptable se sientan seguros.
+12. _Suma Sarnaqaña_: Saber caminar
 
-En el contexto de los eventos en persona, los organizadores también pueden proporcionar escoltas si un miembro de la comunidad lo siente necesario.
+    No existe el cansancio para quien sabe caminar. La constancia puede más que impulsos aislados. No se camina solo; se camina junto al viento, junto a la Madre Tierra, con el sol, con los ancestros y otros seres.
 
+13. _Suma Churaña, suma Katukaña_: Saber dar y saber recibir
 
-### Políticas de moderación
+    Reconocer que la vida es la unión de muchos seres y fuerzas. En la vida todo fluye: se recibe y se da; la interacción de las dos fuerzas genera vida. Hay que saber dar con dicha y dar agradecimiento por todo lo que se recibe.
 
-Estas son las políticas para mantener los estándares de conducta en nuestra comunidad en los canales de chat, eventos asociados, conferencias, grupos de estudio, y eventos virtuales.
+### Comunidad
 
-* Palabras que violen las normas de Código de Conducta, incluyendo comentarios odiosos, hirientes, opresivos, o excluyentes, no están permitidos. (Se permiten las *malas palabras*, pero nunca enfocadas hacia otro usuario/asistente, y nunca de una manera odiosa).
-* Comentarios que los organizadores encuentran inapropiados tampoco están permitidos, así aparezcan en el código de conducta o no.
-* Los organizadores primero deberán responder a dichos comentarios con una advertencia.
-* Si la advertencia es ignorada, el usuario/asistente será expulsado del canal para que evalúe su comportamiento, o deberá retirarse del lugar por 30 minutos en caso de eventos presenciales.
-* Si el usuario/asistente regresa y continúa causando problemas, será expulsado del grupo/evento/lugar de forma indefinida.
-* Los organizadores pueden retractar la expulsión a su discreción si esta se trata de una primera infracción y se ha ofrecido una disculpa sincera a quien ofendieron.
-* Si un organizador expulsa a alguien y usted cree que fue una expulsión sin causa, contacte a ese organizador, o a un organizador diferente **en privado**. Quejas sobre expulsiones en medios abiertos, sociales, u otros canales no son permitidas y conllevaran a más expulsiones.
-* Los organizadores se rigen por un nivel más alto que otros miembros de la comunidad. Si un organizador crea una situación inadecuada, este será juzgado con un estándar más alto.
+El primer derecho es formar parte de una comunidad.
 
-En la comunidad de *Bayes del Sur* nos esforzamos por ir un paso más allá y cuidar el uno del otro. No se limite a tratar de mostrar su excelencia técnica, trate también de ser la mejor persona posible. En particular, evite tocar temas ofensivos o sensibles, especialmente si están fuera del tema tratado; esto muy a menudo conduce a peleas innecesarias, sentimientos heridos, y a daños en la confianza; peor aún, puede conducir a que personas se alejen de la comunidad en su totalidad.
+En caso de conflicto
 
-De la misma forma, si alguien está en desacuerdo con algo que usted dijo o hizo, resista el impulso de estar a la defensiva. Simplemente pare de hacer o decir lo que fuera que causó la queja y pida disculpas. Hay buenas probabilidades de que usted se pudo haber comunicado mejor, incluso si usted siente que fue malinterpretado o injustamente acusado, - recuerde que es su responsabilidad hacer que sus compañeras y compañeros de *Bayes del Sur* estén cómodos.
-
-Todo el mundo busca armonía y todos estamos aquí, ante todo, porque compartimos intereses. Por lo general, la gente está dispuesta a asumir buenas intenciones y perdonar, siempre y cuando usted gane su confianza y actúe de forma honrada.
-
-
-### Alcance
-
-Esperamos que todos los participantes de la comunidad (contribuyentes, pagados o de otro modo; patrocinadores; y otros invitados) se atengan a este Código de Conducta en todos los espacios virtuales y presenciales, así como en todas las comunicaciones de uno-a-uno pertinentes a los negocios de la comunidad.
-
+- s
+- d
+- d
 
 ### Contacto
 
@@ -100,4 +89,4 @@ Esperamos que todos los participantes de la comunidad (contribuyentes, pagados o
 
 Este Código de Conducta se distribuye bajo una licencia [Creative Commons – ShareAlike (BY-SA)](http://creativecommons.org/licenses/by-sa/3.0/)
 
-Adaptado del [Código de Conducta de DevsChile](https://github.com/devschile/codigo-de-conducta)
+Adaptado de las cosmovisiones indígenas.
