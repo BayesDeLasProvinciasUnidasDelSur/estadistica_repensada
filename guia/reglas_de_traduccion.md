@@ -69,8 +69,8 @@ A partir de lo que se acuerde, iremos completando las siguientes listas de térm
 
 
 #### Términos técnicos que se traducen
-Pese a que hay términos que traduciremos al español, es importante que quien traduzca evalúe si corresponde mencionar de todos modos el término en inglés la primera vez.
-Por ejemplo, si bien _string_ es un término que tiene una traducción (_cadena de caracteres_) la primera vez que se menciona sería útil ofrecer también la versión en inglés, porque así resulta más claro por qué el paquete se llama __stringr__. Por ejemplo: "Este capítulo te introducirá en la manipulación de cadenas de caracteres (_strings_) en R.". En el caso de términos cuya traducción en español no está tan extendida, es necesario evaluar si corresponde agregar una pequeña explicación (por ejemplo, _mapping_ > "..._mapear, es decir, indicar qué variables se asignarán a cada eje_...".
+Pese a que hay términos que traduciremos al español, es importante que quien traduzca evalúe si corresponde mencionar el término en inglés la primera vez.
+En el caso de términos cuya traducción en español no está tan extendida, es necesario evaluar si corresponde agregar una pequeña explicación (por ejemplo, _mapping_ > "..._mapear, es decir, indicar qué variables se asignarán a cada eje_...".
 
 | término en inglés | traducción a utilizar |
 | ----------- | ----------- |
@@ -95,7 +95,7 @@ De ser pertinente, se debe ofrecer una posible traducción al español.
 
 | no traducir    |
 | ----------------------------|
-| un _script_ |
+| _script_ |
 
 
 [Las Carpentries](https://github.com/Carpentries-ES/board/blob/master/Convenciones_Traduccion.md) tienen algunas convenciones que podemos ir revisando y ver si se adecuan al propósito de la traducción que estamos realizando.
