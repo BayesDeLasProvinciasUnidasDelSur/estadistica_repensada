@@ -6,14 +6,7 @@
 
 ### Prefacio
 
-En tiempos inmemoriales se erigieron montañas, se desplazaron ríos, se formaron lagos.
-Nuestra amazonia, nuestra cordillera, nuestras costas, llanos y valles se cubrieron de vida.
-Poblamos esta sagrada Madre Tierra con rostros diferentes, y comprendimos desde entonces la  pluralidad vigente de todas las cosas y nuestra diversidad como seres y culturas.
-Así conformamos nuestros pueblos, y jamás comprendimos el racismo hasta que lo sufrimos desde los funestos tiempos de la colonia.
-
-Nuestros pueblos, de composición plural, desde la profundidad de la historia, inspirados por las luchas en defensa de nuestra voluntad de vida comunitaria, en la sublevación indígena anticolonial, en la independencia, en las luchas populares de liberación, en las marchas indígenas, sociales y sindicales, en las luchas por el agua, la tierra y el territorio, por el buen gobierno y con la memoria de nuestros mártires, nos organizamos colectivamente una vez más.
-
-Una organización basada en la diversidad, respeto e igualdad entre todas y todos, con principios de soberanía, dignidad, complementariedad, solidaridad, armonía y equidad en la distribución y redistribución del  producto social, donde predomine la búsqueda del vivir bien, en convivencia colectiva.
+Reconociendo nuestras raíces milenarias, forjadas por mujeres y hombres de distintos pueblos, celebrando a la naturaleza, la Pacha Mama, de la que somos parte y que es vital para nuestra existencia, reconociendo  nuestras  diversas  formas  de  religiosidad  y espiritualidad, apelando a la sabiduría de todas las culturas que nos enriquecen como sociedad, como herederos de las luchas sociales de liberación frente a todas las formas de dominación y colonialismo, decidimos organizarnos nuevamente, construyendo una forma de convivencia basada en la diversidad, respetando en todas sus   dimensiones la dignidad de las personas, las colectividades y la naturaleza, con la esperanza de alcanzar el buen vivir.
 
 ### Principios del buen vivir
 
@@ -69,15 +62,16 @@ Una organización basada en la diversidad, respeto e igualdad entre todas y todo
 
     Reconocer que la vida es la unión de muchos seres y fuerzas. En la vida todo fluye: se recibe y se da; la interacción de las dos fuerzas genera vida. Hay que saber dar con dicha y dar agradecimiento por todo lo que se recibe.
 
-### Comunidad
+### Vínculos comunitarios
 
-El primer derecho es formar parte de una comunidad.
+**El primer derecho es formar parte de una comunidad.**
 
-En caso de conflicto
+La experiencia acumulada a través de las generaciones por las más diversas comunidades del mundo condujo, de forma independiente, a la aparición de tecnologías de sociabilidad sorprendentemente similares entre sí.
+En todas ellas se pueden reconocer al menos dos mecanismos fundamentales que cumplen la función de re-ciclar los v\'inculos interprersonales: los ritos festivos y los ritos coercitivos.
 
-- s
-- d
-- d
+Los ritos comunitarios, tanto festivos como coercitivos están orientados ambos a la activación de los vínculos sociales a través del flujo de intercambios entre las partes: dar, recibir e intercambiar. Los mecanismos de "reparación", "conciliación" y "ayuda" de los sistemas coercitivos no son más que nombres para las tres tipos de relaciones posibles: (-->) el acto en el que la persona acusada dona a la acusante gestos, actos u obsequios a modo de renovación del vínculo; (<-->) el acto en el que las persona acusada y acusante interactúan mutuamente, hablando, dando y recibendo a modo de renovación del vínculo; (<--) el acto en el que la persona acusante ofrece algo a la acusada, algún tipo de ayuda, de modo de facilitar la renovación del vínculo.
+
+Sólo en última instancia, en caso de que la persona acusada no sea capaz de renovar el vínculo social afectado y persista en sus acciones de hostigamiento que alteren la salud de los vínculos comunitarios, la persona acusada podrá ser expulsada.
 
 ### Contacto
 
@@ -87,6 +81,5 @@ En caso de conflicto
 
 ### Licencia y atribución
 
-Este Código de Conducta se distribuye bajo una licencia [Creative Commons – ShareAlike (BY-SA)](http://creativecommons.org/licenses/by-sa/3.0/)
-
-Adaptado de las cosmovisiones indígenas.
+Este Código de Conducta ha sido adaptado de las cosmovisiones indígenas del Abya Yala y
+ se distribuye bajo una licencia [Creative Commons – ShareAlike (BY-SA)](http://creativecommons.org/licenses/by-sa/3.0/) .
