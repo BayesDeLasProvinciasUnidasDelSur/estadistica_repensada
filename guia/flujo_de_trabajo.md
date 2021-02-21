@@ -1,50 +1,60 @@
 # Flujo de trabajo 
 
-### Slack
-
-Las comunicaciones se realizarán por Slack.
-
-* Asignaciones e impugnaciones de responsables de traducción.
-* Aviso de nuevos capítulo disponible para ser revisado.
-* Asignaciones e impugnaciones de personas (más de una) para que hagan la revisión del capítulo.
-
+Las comunicaciones generales se realizarán por Slack.
 Las comunicaciones se hacen oficiales cuando aparzcan publicadas en el repositorio `BayesDeLasProvinciasUnidasDelSur/estadistica_repensada`.
 
-### Responsables
+## Funciones
+
+- **Traducción**: persona responsable de la traducción de uno de los capítulos.
+- **Revisión 1**: persona responsable de la verificación de uno de los capítulos.
+- **Revisión 2**: persona responsable de la verificación de uno de los capítulos.
+
+## Requisitos
+
+### Tiempos de trabajo
 
 Las personas responsables de traducción y verificación de capítulos deben cumplir requisitos mínimos de trabajo y tiempos máximos de entrega.
-En caso de incumplimiento, puede impugnarse y transmitirse a otras personas las funciones de responsabilidad.
 
-- **git**: Las personas responsables deben saber trabajar con git o tener asistencia personalizada que garantice el buen desempeño de su grupo de trabajo.
-- **Tiempos de traducción**: definir
-- **Tiempos de verificación**: definir
-- **Edición**: link a traduccion y criterios de edición general.
+- **Traductores**: Se espera que traduzcan como mínimo 1.5 páginas por semana, mínimo.
+- **Revisores**: Se espera que revisen 3 páginas por semana, mínimo.
+
+Se recomienda traducir/revsiar varias páginas las primeras semanas para tener un colchón.
+La tolerancia por incumplimiento es de una semana, máximo.
+En caso de retrazo superior, su función podrá ser impugnada y asignada a otra persona. 
+
+### Herramientas de trabajo
+
+Las personas responsables deben trabajar con git o tener asistencia personalizada que garantice el buen desempeño de su grupo de trabajo.
+
+
+- **Repositorio principal**: `git@github.com:BayesDeLasProvinciasUnidasDelSur/estadistica_repensada.git`
+- **Fork de traducción**: `git@github.com:usuario/estadistica_repensada.git`
+
+La forma de organización para la traducción y verificación del capítulo (sea individual, colaborativa u otra) es decisión de la responsable.
 
 ### Fork y archivos
 
-Las personas responsable deben hacer un fork en su cuenta github (`git@github.com:miusuario/estadistica_repensada.git`), y trabajar sobre el archivo `.tex` correspondiente al capítulo, disponible en la carpeta `libro/`. La forma de organización para la traducción y verificación del capítulo (sea individual, colaborativa u otra) es decisión de la responsable.
+- **Traductores**: Deben tener un fork del repositorio principal en su cuenta propia de github o de algun servidor git público (e.g. `git@github.com:miusuario/estadistica_repensada.git`), y deberán trabajar solamente sobre el archivo `.tex` correspondiente al capítulo, disponible en la carpeta `libro/`.
+- **Revisores**: Luego de que se haya publicado una sección en el repositorio principal, deben abrir un issue en el fork de traducción, donde indicarán las propuestas de cambio, señalando la frase actual y la frase propuesta.
 
 ### Upstream
 
-Los fork deben mantenerse actualizados con el repositorio `BayesDeLasProvinciasUnidasDelSur/estadistica_repensada`. Para ello es necesario agregar un remoto al fork:
+- **Traductores**: Los fork deben mantenerse actualizados con el repositorio principal. Para ello es necesario agregar un remoto al fork:
 
-`git remote add upstream git@github.com:BayesDeLasProvinciasUnidasDelSur/estadistica_repensada.git`
+    `git remote add upstream git@github.com:BayesDeLasProvinciasUnidasDelSur/estadistica_repensada.git`
 
-De esta forma es posible traer los cambios que ocurran en el repositorio principal al fork individual.
+    De esta forma es posible traer los cambios que ocurran en el repositorio principal al fork individual.
 
-`git pull upstream main --rebase`
+        `git pull upstream main --rebase`
 
-El flag `rebase` reordena la historia en caso de que ambos repositorios hubieran hecho cambios, poniendo primero en la historia los cambios que traemos y aplicando las modificaciones locales sobre la nueva historia. Si hubiera una conflicto, automáticamente se suspende el rebase hasta que se seleccione una de las versión, se agregue, y se continúe el rebase.
+    En caso de que ambos repositorios hubieran hecho cambios, el flag `rebase` coloca los commits publicados en el upstream primero en la historia, re-aplicando las modificaciones locales sobre esa nueva historia.
+Si hubiera una conflicto, automáticamente se suspende el rebase hasta que usted seleccione una de las versión, la agregue, e indique continuar con el rebase.
 
 ### Pull request
 
-Una vez terminada la propuesta de traducción, se debe verificar que es posible generar el pdf localmente, sin errores ni warnings. Una vez comprobado eso, se hace el _pull request_ indicando el branch `main` del repositorio `BayesDeLasProvinciasUnidasDelSur/estadistica_repensada`.
+*Hacer un pull request por sección*
 
-### Revision
+- **Traductores**: Una vez terminada la propuesta de traducción de una sección, se debe traer los cambios del upstream, se debe verificar que es posible generar el pdf localmente, sin errores ni warnings, y solo después se hace debe hacer el _pull request_ indicando el branch `main` del repositorio `BayesDeLasProvinciasUnidasDelSur/estadistica_repensada`.
 
-* Los comentarios sobre la traducción se harán sobre un issue específico para revisión del capítulo. Habrá un issue por capítulo.
+- **Revisores 1**: Una vez terminada la revisión de una sección, luego de alcanzar un acuerdo entre las personas revisoras, debe abrir un pull request en el repositorio principal.
 
-* A medida que vayan terminando de hacer sus comentarios, las personas encargadas avisan por el Slack que su revisión está lista.
-* Una vez revisado el archivo, la persona a cargo de la traducción hace _commit_ a los cambios que considere pertinentes para que se actualice el _pull request_ y avisa por el Slack que ya está lista la última versión.
-* [@pachamaltese](https://github.com/pachamaltese) hace el _merge_.
-* [@rivaquiroga](https://github.com/rivaquiroga) actualiza el documento con el seguimiento.
