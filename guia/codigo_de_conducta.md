@@ -6,17 +6,17 @@
 
 ### Prefacio
 
-Reconociendo nuestras raíces milenarias, forjadas por mujeres y hombres de distintos pueblos, celebrando a la naturaleza, la Pacha Mama, de la que somos parte y que es vital para nuestra existencia, reconociendo  nuestras  diversas  formas  de  religiosidad  y espiritualidad, apelando a la sabiduría de todas las culturas que nos enriquecen como sociedad, como herederos de las luchas sociales de liberación frente a todas las formas de dominación y colonialismo, decidimos organizarnos nuevamente, construyendo una forma de convivencia basada en la diversidad, respetando en todas sus   dimensiones la dignidad de las personas, las colectividades y la naturaleza, con la esperanza de alcanzar el buen vivir.
+Reconociendo nuestras raíces milenarias, forjadas por mujeres y hombres de distintos pueblos, celebrando a la naturaleza, la Pacha Mama, de la que somos parte y que es vital para nuestra existencia, reconociendo  nuestras  diversas  formas  de  religiosidad  y espiritualidad, apelando a la sabiduría de todas las culturas que nos enriquecen como sociedad y luchas sociales de liberación frente a todas las formas de dominación y colonialismo, construimos una forma de convivencia basada en la diversidad, respetando la dignidad de las personas de las colectividades y la naturaleza en todas sus dimensiones, con la esperanza de alcanzar el buen vivir.
 
 ### Principios del buen vivir
 
 1. _Suma Umaña_: Saber beber
 
-    El agua es la fuente de vida en la tierra, es el principal elemento de nuestros cuerpos.
+    El agua es la fuente de vida en la tierra.
 
 2. _Suma Manq'aña_: Saber comer
 
-    Comer es intercambio de vida. Somos lo que comemos. Pero también comemos lo que somos (y hacemos).
+    Comer es intercambio de vida. Somos lo que comemos, pero también comemos lo que somos (y hacemos).
 
 3. _Suma Thokoña_: Saber danzar
 
@@ -67,9 +67,9 @@ Reconociendo nuestras raíces milenarias, forjadas por mujeres y hombres de dist
 **El primer derecho es formar parte de una comunidad.**
 
 La experiencia acumulada a través de las generaciones por las más diversas comunidades del mundo condujo, de forma independiente, a la aparición de tecnologías de sociabilidad sorprendentemente similares entre sí.
-En todas ellas se pueden reconocer al menos dos mecanismos fundamentales que cumplen la función de re-ciclar los v\'inculos interprersonales: los ritos festivos y los ritos coercitivos.
+En todas ellas se pueden reconocer al menos dos mecanismos fundamentales que cumplen la función de re-ciclar los vínculos interprersonales: los ritos festivos y los ritos coercitivos.
 
-Los ritos comunitarios, tanto festivos como coercitivos están orientados ambos a la activación de los vínculos sociales a través del flujo de intercambios entre las partes: dar, recibir e intercambiar. Los mecanismos de "reparación", "conciliación" y "ayuda" de los sistemas coercitivos no son más que nombres para las tres tipos de relaciones posibles: (-->) el acto en el que la persona acusada dona a la acusante gestos, actos u obsequios a modo de renovación del vínculo; (<-->) el acto en el que las persona acusada y acusante interactúan mutuamente, hablando, dando y recibendo a modo de renovación del vínculo; (<--) el acto en el que la persona acusante ofrece algo a la acusada, algún tipo de ayuda, de modo de facilitar la renovación del vínculo.
+Los ritos comunitarios, tanto festivos como coercitivos están orientados ambos a la activación de los vínculos sociales a través del flujo de intercambios entre las partes: dar, recibir e intercambiar. Los mecanismos de "reparación", "conciliación" y "ayuda" de los sistemas coercitivos no son más que nombres para las tres tipos de relaciones posibles: (-->) el acto en el que la persona acusada dona a la acusante gestos, actos u obsequios a modo de renovación del vínculo; (<-->) el acto en el que las persona acusada y acusante interactúan mutuamente, hablando, dando y recibendo a modo de renovación del vínculo; (<--) el acto en el que la persona acusante ofrece algo a la acusada, algún tipo de ayuda, de modo de renovación del vínculo.
 
 Sólo en última instancia, en caso de que la persona acusada no sea capaz de renovar el vínculo social afectado y persista en sus acciones de hostigamiento que alteren la salud de los vínculos comunitarios, la persona acusada podrá ser expulsada.
 
@@ -82,4 +82,4 @@ Sólo en última instancia, en caso de que la persona acusada no sea capaz de re
 ### Licencia y atribución
 
 Este Código de Conducta ha sido adaptado de las cosmovisiones indígenas del Abya Yala y
- se distribuye bajo una licencia [Creative Commons – ShareAlike (BY-SA)](http://creativecommons.org/licenses/by-sa/3.0/) .
+ se distribuye bajo licencia [Creative Commons – ShareAlike (BY-SA)](http://creativecommons.org/licenses/by-sa/3.0/).

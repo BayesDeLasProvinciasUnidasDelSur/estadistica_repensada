@@ -1,11 +1,5 @@
 # Orientaciones para la traducción
 
-## 0. Organización del trabajo
-Cada capítulo tiene asignada una persona a cargo de la traducción, que es responsable de que esta se lleve a cabo.
-La forma de organizarse queda a criterio de cada quien: se puede realizar de forma individual, buscar colaboradores o realizar una actividad abierta de traducción.
-
-## I. Aspectos a tener en cuenta para la traducción del texto
-
 __1. Las traducciones deben intentar encontrar la forma más natural y amplia de decir en español lo que está escrito en inglés.__
 En algunos casos eso puede implicar alterar el orden de los elementos de una oración, o agregar palabras que no estaban en el original.
 Lo importante es que la traducción "suene" lo más natural posible en español, respetando el sentido que se quiso transmitir en el original.
